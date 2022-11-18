@@ -1,0 +1,38 @@
+################################
+###        The Humans        ###
+################################
+
+-------- v0.01 -------
+
+**** ADD ********
+- add terrain renderer
+- add grass texture to terrain
+- add camera movement
+- add camera restriction
+- add mouse listener
+- add mouse terrain movement
+- add villager texture
+- add villager entity on map
+- add common coordinate system for all entity
+- add entity random generation
+- add entity detection when click on object
+- add entity state (selected)
+- add multiple selection of entity whit CRT or draw-box
+- add entity textures for direction
+- add entity basic movement on map
+- add entity overlap restrictions
+- add texture for ui
+- add slots to user interface texture
+- add selectable functionality to slots
+- add ui options when an entity is selected
+- add building house option to villagers
+
+
+-------- v0.02 ------
+
+*****  ADD  *******
+- add file system for Windows
+- add executable file for Windows
+- add file system for Linux
+- add executable file for Linux
+
